@@ -1,0 +1,6 @@
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\MaxNumber\obj\Debug\MaxNumber.pdb

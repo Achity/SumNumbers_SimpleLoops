@@ -1,0 +1,6 @@
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\bin\Debug\LatinLetters.exe
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\obj\Debug\LatinLetters.csprojResolveAssemblyReference.cache
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\obj\Debug\LatinLetters.exe
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\LatinLetters\obj\Debug\LatinLetters.pdb

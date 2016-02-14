@@ -1,0 +1,5 @@
+c:\users\ralitsa\documents\visual studio 2015\Projects\Simple Loops\sumNumbers\bin\Debug\sumNumbers.exe.config
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\sumNumbers\bin\Debug\sumNumbers.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\sumNumbers\bin\Debug\sumNumbers.pdb
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\sumNumbers\obj\Debug\sumNumbers.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\sumNumbers\obj\Debug\sumNumbers.pdb
