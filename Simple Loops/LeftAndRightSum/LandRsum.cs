@@ -12,14 +12,28 @@ namespace LeftAndRightSum
         {
             int LineCount = int.Parse(Console.ReadLine());
             int sumL = 0;
+            int sumR = 0;
+            int diff = 0;
 
             for (int cnt = 0; cnt < LineCount; cnt++)
             {
-                int num1L = int.Parse(Console.ReadLine());
-                int num2L = int.Parse(Console.ReadLine());
-                sumL = num1L + num2L;
+                int numL = int.Parse(Console.ReadLine());
+                sumL += numL;
             }
-            Console.WriteLine(sumL);
+            for (int j = 0; j < LineCount; j++)
+            {
+                int numR = int.Parse(Console.ReadLine());
+                sumR += numR;
+            }
+            diff = Math.Abs(sumL - sumR);
+            if (sumL == sumR)
+            {
+                Console.WriteLine("Yes sum {0}", sumL);
+            }
+            else
+            {
+                Console.WriteLine("No diff {0}", diff);
+            }
         }
     }
 }

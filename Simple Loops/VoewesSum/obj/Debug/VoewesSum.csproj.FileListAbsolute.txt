@@ -1,0 +1,6 @@
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\bin\Debug\VoewesSum.exe.config
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\bin\Debug\VoewesSum.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\bin\Debug\VoewesSum.pdb
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\obj\Debug\VoewesSum.csprojResolveAssemblyReference.cache
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\obj\Debug\VoewesSum.exe
+C:\Users\Ralitsa\Documents\Visual Studio 2015\Projects\Simple Loops\VoewesSum\obj\Debug\VoewesSum.pdb
